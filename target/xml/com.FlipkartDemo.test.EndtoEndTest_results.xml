@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Checkout Item_EndtoEndTest"
+           tests="11"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="7.539">
+  <properties />
+  
+  
+            <testcase name="Step04_ClickOnSignInButton" time="0.084" classname="com.FlipkartDemo.test.EndtoEndTest" />
+                <testcase name="Step05_SearchforProduct" time="0.282" classname="com.FlipkartDemo.test.EndtoEndTest" />
+                <testcase name="Step9_NaviagateToHomePage" time="0.082" classname="com.FlipkartDemo.test.EndtoEndTest" />
+                <testcase name="Step02_EnterEmailAddress" time="0.190" classname="com.FlipkartDemo.test.EndtoEndTest" />
+                <testcase name="Step03_EnterPassword" time="0.149" classname="com.FlipkartDemo.test.EndtoEndTest" />
+                <testcase name="Step08_ClickOnContinue" time="2.187" classname="com.FlipkartDemo.test.EndtoEndTest" />
+                <testcase name="Step07_ClickonBuyNow" time="2.189" classname="com.FlipkartDemo.test.EndtoEndTest" />
+                <testcase name="Step01_NavigeteToURL" time="1.424" classname="com.FlipkartDemo.test.EndtoEndTest" />
+                <testcase name="Step10_HoverOnMyAccMenu" time="0.162" classname="com.FlipkartDemo.test.EndtoEndTest" />
+                <testcase name="Step11_ClickOnLogout" time="0.092" classname="com.FlipkartDemo.test.EndtoEndTest" />
+                <testcase name="Step06_SelectFromResult1" time="0.698" classname="com.FlipkartDemo.test.EndtoEndTest" />
+      
+</testsuite>

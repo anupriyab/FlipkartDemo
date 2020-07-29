@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.FlipkartDemo.test.EndtoEndTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 1, Errors: 0, Skipped: 7, Time elapsed: 0.627 sec <<< FAILURE! - in com.FlipkartDemo.test.EndtoEndTest
+setup(com.FlipkartDemo.test.EndtoEndTest)  Time elapsed: 0.614 sec  <<< FAILURE!
+org.testng.TestNGException: 
+
+Parameter 'TC_NAME' is required by @Configuration on method setup but has not been marked @Optional or defined
+
+

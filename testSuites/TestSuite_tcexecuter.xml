@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name=" Flipkart Automation :TCEXECUTER" group-by-instances="true">
+  <test name="Checkout Item_EndtoEndTest">
+    <parameter name="PASSWORD" value="Flipkart2020@"/>
+    <parameter name="TC_NAME" value="EndtoEndTest"/>
+    <parameter name="DRIVER" value="CHROME"/>
+    <parameter name="HOMEPAGE_URL" value="https://www.flipkart.com/"/>
+    <parameter name="USERNAME" value="9538094028"/>
+    <classes>
+      <class name="com.FlipkartDemo.test.EndtoEndTest"/>
+    </classes>
+  </test> <!-- Checkout Item_EndtoEndTest -->
+</suite> <!--  Flipkart Automation :TCEXECUTER -->

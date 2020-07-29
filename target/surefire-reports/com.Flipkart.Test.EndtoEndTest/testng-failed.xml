@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.Flipkart.Test.EndtoEndTest]">
+  <test thread-count="5" verbose="0" name="Command line test(failed)">
+    <classes>
+      <class name="com.Flipkart.Test.EndtoEndTest">
+        <methods>
+          <include name="methodLevelSetup"/>
+          <include name="setup"/>
+          <include name="classLevelTearDown"/>
+          <include name="Step02_ClickonLoginMenu"/>
+          <include name="Step01_NavigeteToURL"/>
+          <include name="methodLevelTearDown"/>
+        </methods>
+      </class> <!-- com.Flipkart.Test.EndtoEndTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.Flipkart.Test.EndtoEndTest] -->
